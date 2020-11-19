@@ -2,8 +2,6 @@
 
 ![example blink](https://raw.githubusercontent.com/Crysknife007/pi-zero-minimalist-clock/main/sSo3rFh.gif)
 
-Pi Zero Clock made with no extra parts. Utilizes the onboard led to indicate the time.
-
 Save the script in your home directory as minimalistClock.sh and make it executable with the command chmod +x minimalClock.sh. Then run it under its own screen with the command screen ./minimalClock.sh since it can be somewhat distracting if running on your main session due to all the echo commands. 
 
 * Use the command sudo apt-get install screen if you don't already have it. 
